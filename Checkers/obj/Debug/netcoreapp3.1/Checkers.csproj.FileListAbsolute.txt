@@ -1,0 +1,13 @@
+D:\Dimo0on\Лаби\ОП\Checkers\bin\Debug\netcoreapp3.1\Checkers.exe
+D:\Dimo0on\Лаби\ОП\Checkers\bin\Debug\netcoreapp3.1\Checkers.deps.json
+D:\Dimo0on\Лаби\ОП\Checkers\bin\Debug\netcoreapp3.1\Checkers.runtimeconfig.json
+D:\Dimo0on\Лаби\ОП\Checkers\bin\Debug\netcoreapp3.1\Checkers.runtimeconfig.dev.json
+D:\Dimo0on\Лаби\ОП\Checkers\bin\Debug\netcoreapp3.1\Checkers.dll
+D:\Dimo0on\Лаби\ОП\Checkers\bin\Debug\netcoreapp3.1\Checkers.pdb
+D:\Dimo0on\Лаби\ОП\Checkers\obj\Debug\netcoreapp3.1\Checkers.csprojAssemblyReference.cache
+D:\Dimo0on\Лаби\ОП\Checkers\obj\Debug\netcoreapp3.1\Checkers.AssemblyInfoInputs.cache
+D:\Dimo0on\Лаби\ОП\Checkers\obj\Debug\netcoreapp3.1\Checkers.AssemblyInfo.cs
+D:\Dimo0on\Лаби\ОП\Checkers\obj\Debug\netcoreapp3.1\Checkers.csproj.CoreCompileInputs.cache
+D:\Dimo0on\Лаби\ОП\Checkers\obj\Debug\netcoreapp3.1\Checkers.dll
+D:\Dimo0on\Лаби\ОП\Checkers\obj\Debug\netcoreapp3.1\Checkers.pdb
+D:\Dimo0on\Лаби\ОП\Checkers\obj\Debug\netcoreapp3.1\Checkers.genruntimeconfig.cache
